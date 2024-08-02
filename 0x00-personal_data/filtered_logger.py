@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 Mask sensitive data in log messages
